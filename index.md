@@ -1,3 +1,3 @@
-# Welcome to my blog
+Hey there!
 
-I'm glad you are here. I plan to talk about ...
+This is my website for ATK 201. It includes all of the projects that I've completed over the course of the semester.
